@@ -90,7 +90,7 @@ require (
 	github.com/Shopify/sarama v1.38.1
 	github.com/VividCortex/ewma v1.1.1
 	github.com/abourget/teamcity v0.0.0-00010101000000-000000000000
-	github.com/alessio/shellescape v1.4.1
+	github.com/alessio/shellescape v1.4.2
 	github.com/andy-kimball/arenaskl v0.0.0-20200617143215-f701008588b9
 	github.com/andygrunwald/go-jira v1.14.0
 	github.com/apache/arrow/go/arrow v0.0.0-20200923215132-ac86123a3f01
